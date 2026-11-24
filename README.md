@@ -35,5 +35,4 @@ The seeder creates eight tasks relative to the date it is run and one
 sample user. The Welcome page uses the application time zone, Asia/Manila.
 
 ## Hosted application
-
-Add your hosted link here.
+https://it0049-technical-assessment-3-production.up.railway.app/
